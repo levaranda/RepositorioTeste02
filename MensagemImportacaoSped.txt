@@ -1,0 +1,3 @@
+-- Mensagem no momento da importação dos arquivos RTF00016, caso nehuma Opção para Importação esteja selecionada. 
+
+A opção selecionada não irá efetuar nenhuma atualização de Cadastro. Deseja prosseguir?  [ ] SIM [ ] NÃO?
